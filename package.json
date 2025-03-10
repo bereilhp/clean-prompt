@@ -1,0 +1,25 @@
+{
+  "name": "clean-prompt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bereilhp/clean-prompt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bereilhp/clean-prompt/issues"
+  },
+  "homepage": "https://github.com/bereilhp/clean-prompt#readme",
+  "dependencies": {
+    "axios": "^1.8.2",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
